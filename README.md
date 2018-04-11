@@ -1,29 +1,26 @@
-# This is a large heading
+ME
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live outside the city of Philadelphia, in the state of Pennsylvia, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three books are:
 
-Here is `some code` in the middle of a sentence.
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Linger in old city.
+2. Azura in a city.
+3. Gemma in New City.
 
+Contact
+
+The best way to get in touch with me is to talk to me.
